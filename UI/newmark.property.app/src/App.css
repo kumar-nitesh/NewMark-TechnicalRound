@@ -1,0 +1,48 @@
+.property div {
+  margin-bottom: 10px;
+}
+
+.property .bullet {
+  display: block;
+  font-weight: normal;
+  margin-left: 20px; /* Adds indentation for bullet points */
+}
+
+.property h2, .property h3, .property h4 {
+  margin-top: 10px;
+  margin-bottom: 5px;
+}
+
+/* Add a bullet point using the `::before` pseudo-element */
+.property .bullet::before {
+  content: "▪ "; /* Adds the bullet before the content */
+  color: black;
+  font-size: 1.5em; /* Adjust the size of the bullet */
+  margin-right: 10px;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.property span {
+  font-size: 1.1em;
+}
+
+.property .spaces h4 {
+  margin-top: 10px;
+  font-weight: bold;
+}
+
+.property .space {
+  margin-left: 20px;
+}
+
+.property .rent-roll ul {
+  list-style-type: disc;
+  padding-left: 20px;
+}
+
+.property .rent-roll li {
+  font-size: 1em;
+  font-weight: bold;  /* Make rent bold */
+  color: #000;        /* Optionally set color */
+}

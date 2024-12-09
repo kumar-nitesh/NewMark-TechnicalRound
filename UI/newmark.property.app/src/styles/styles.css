@@ -1,0 +1,21 @@
+.App {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+  }
+  
+  .property {
+    margin-bottom: 20px;
+    border: 1px solid #ddd;
+    padding: 15px;
+    border-radius: 8px;
+  }
+  
+  .spaces {
+    margin-top: 10px;
+  }
+  
+  .space {
+    margin-top: 5px;
+    padding-left: 20px;
+    border-left: 2px solid #ccc;
+  }
