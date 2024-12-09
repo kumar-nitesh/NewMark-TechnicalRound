@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "5agEDH1RoCubJf3XkbgKsBF+OKKkL1nkqU8uYCYC5C8=",
+  "Source": "NewMark.Property.Api",
+  "BasePath": "_content/NewMark.Property.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -1,0 +1,15 @@
+C:\Personal\Private\NewMark\NewMark.Azure.Blob.Storage\bin\Debug\net8.0\NewMark.Azure.Blob.Storage.deps.json
+C:\Personal\Private\NewMark\NewMark.Azure.Blob.Storage\bin\Debug\net8.0\NewMark.Azure.Blob.Storage.dll
+C:\Personal\Private\NewMark\NewMark.Azure.Blob.Storage\bin\Debug\net8.0\NewMark.Azure.Blob.Storage.pdb
+C:\Personal\Private\NewMark\NewMark.Azure.Blob.Storage\bin\Debug\net8.0\NewMark.PropertyManagement.Models.dll
+C:\Personal\Private\NewMark\NewMark.Azure.Blob.Storage\bin\Debug\net8.0\NewMark.PropertyManagement.Models.pdb
+C:\Personal\Private\NewMark\NewMark.Azure.Blob.Storage\obj\Debug\net8.0\NewMark.Azure.Blob.Storage.csproj.AssemblyReference.cache
+C:\Personal\Private\NewMark\NewMark.Azure.Blob.Storage\obj\Debug\net8.0\NewMark.Azure.Blob.Storage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Personal\Private\NewMark\NewMark.Azure.Blob.Storage\obj\Debug\net8.0\NewMark.Azure.Blob.Storage.AssemblyInfoInputs.cache
+C:\Personal\Private\NewMark\NewMark.Azure.Blob.Storage\obj\Debug\net8.0\NewMark.Azure.Blob.Storage.AssemblyInfo.cs
+C:\Personal\Private\NewMark\NewMark.Azure.Blob.Storage\obj\Debug\net8.0\NewMark.Azure.Blob.Storage.csproj.CoreCompileInputs.cache
+C:\Personal\Private\NewMark\NewMark.Azure.Blob.Storage\obj\Debug\net8.0\NewMark..8403EED2.Up2Date
+C:\Personal\Private\NewMark\NewMark.Azure.Blob.Storage\obj\Debug\net8.0\NewMark.Azure.Blob.Storage.dll
+C:\Personal\Private\NewMark\NewMark.Azure.Blob.Storage\obj\Debug\net8.0\refint\NewMark.Azure.Blob.Storage.dll
+C:\Personal\Private\NewMark\NewMark.Azure.Blob.Storage\obj\Debug\net8.0\NewMark.Azure.Blob.Storage.pdb
+C:\Personal\Private\NewMark\NewMark.Azure.Blob.Storage\obj\Debug\net8.0\ref\NewMark.Azure.Blob.Storage.dll

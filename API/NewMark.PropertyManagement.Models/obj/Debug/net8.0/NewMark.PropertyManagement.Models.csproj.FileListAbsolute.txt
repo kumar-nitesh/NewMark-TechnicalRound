@@ -1,0 +1,11 @@
+C:\Personal\Private\NewMark\NewMark.PropertyManagement.Models\bin\Debug\net8.0\NewMark.PropertyManagement.Models.deps.json
+C:\Personal\Private\NewMark\NewMark.PropertyManagement.Models\bin\Debug\net8.0\NewMark.PropertyManagement.Models.dll
+C:\Personal\Private\NewMark\NewMark.PropertyManagement.Models\bin\Debug\net8.0\NewMark.PropertyManagement.Models.pdb
+C:\Personal\Private\NewMark\NewMark.PropertyManagement.Models\obj\Debug\net8.0\NewMark.PropertyManagement.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Personal\Private\NewMark\NewMark.PropertyManagement.Models\obj\Debug\net8.0\NewMark.PropertyManagement.Models.AssemblyInfoInputs.cache
+C:\Personal\Private\NewMark\NewMark.PropertyManagement.Models\obj\Debug\net8.0\NewMark.PropertyManagement.Models.AssemblyInfo.cs
+C:\Personal\Private\NewMark\NewMark.PropertyManagement.Models\obj\Debug\net8.0\NewMark.PropertyManagement.Models.csproj.CoreCompileInputs.cache
+C:\Personal\Private\NewMark\NewMark.PropertyManagement.Models\obj\Debug\net8.0\NewMark.PropertyManagement.Models.dll
+C:\Personal\Private\NewMark\NewMark.PropertyManagement.Models\obj\Debug\net8.0\refint\NewMark.PropertyManagement.Models.dll
+C:\Personal\Private\NewMark\NewMark.PropertyManagement.Models\obj\Debug\net8.0\NewMark.PropertyManagement.Models.pdb
+C:\Personal\Private\NewMark\NewMark.PropertyManagement.Models\obj\Debug\net8.0\ref\NewMark.PropertyManagement.Models.dll

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\NewMark.Property.Api.props" />
+</Project>

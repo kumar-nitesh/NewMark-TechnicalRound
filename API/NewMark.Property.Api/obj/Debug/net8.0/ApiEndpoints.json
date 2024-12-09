@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "NewMark.Property.Api.Controllers.PropertyController",
+    "Method": "GetProperties",
+    "RelativePath": "Property",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "blobSasUrl",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
